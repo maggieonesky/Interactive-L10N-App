@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-19 10:15+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: page.scm:44
+msgid "Translate Me"
+msgstr ""
+
+#: page.scm:47
+msgid "English"
+msgstr ""
+
+#: page.scm:50
+msgid "Chinese"
+msgstr ""
+
+#: page.scm:67
+msgid "OneSky Tech Demo"
+msgstr ""
+
+#: page.scm:68
+msgid "Let's translate these words!"
+msgstr ""
+
+#: page.scm:85
+msgid "Search"
+msgstr ""
+
+#: page.scm:88
+msgid "Home"
+msgstr ""
+
+#: page.scm:105
+msgid "8 Steps to Get App Localization Started"
+msgstr ""
+
+#: page.scm:110
+msgid ""
+"You work at a fast-growing startup. You’re aware that it’s time to expand to "
+"international markets—more users and bigger revenues are your top priorities "
+"right now. And you know the international market is lucrative; according to "
+"App Annie’s 2014 retrospective, the United States, Japan, and South Korea "
+"are the three biggest app markets in the world. Together, these countries "
+"generate more revenue than every other country in the world combined. So, "
+"how are you going to make sure you’ve covered the three biggies?"
+msgstr ""
+
+#: page.scm:113
+msgid "Two words: app localization."
+msgstr ""
+
+#: page.scm:114
+msgid ""
+"Think about it. If your app is already in English, and you add Japanese and "
+"Korean—well, then you’re able to reach more than half of the global market."
+msgstr ""
+
+#: page.scm:115
+msgid ""
+"The data backs this up. According to Common Sense Advisory, a consulting "
+"firm, 72.4% of global consumers prefer to use their native language when "
+"shopping online. And app analytics firm Distimo discovered that localized "
+"apps experienced, on average, 128% growth in download volumes after the "
+"native language was added—and that was just in the first week. In that same "
+"week, the revenue grew a promising 26%. Simply localizing an iPhone app’s "
+"keywords can yield a 767% increase in downloads, according to Make App "
+"Magazine."
+msgstr ""
+
+#: page.scm:119
+msgid "Let's get started!"
+msgstr ""
+
+#: page.scm:137
+msgid "Thank you for visiting this site created by Maggie Chu!"
+msgstr ""
